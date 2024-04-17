@@ -16,7 +16,6 @@ function App() {
       <div className="App-body">
         <Router>
           <NavBar />
-          <NavBar />
           <Container customClass="min-height">
             <Routes>
               <Route path="/" element={<Home />} />
