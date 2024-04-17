@@ -1,0 +1,12 @@
+.btn {
+  background-color: #222;
+  color: aliceblue;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+}
+
+.btn:hover {
+  scale: 1.02;
+  color: #ffbb33;
+}
