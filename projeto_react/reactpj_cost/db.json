@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "id": "c247",
+      "name": "teste",
+      "budget": "30000",
+      "category": {
+        "id": "1",
+        "name": "Infrastructure"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "defc",
+      "name": "teste",
+      "budget": "400000",
+      "category": {
+        "id": "3",
+        "name": "Software Development"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "187f",
+      "name": "Projeto 1",
+      "budget": "30000",
+      "category": {
+        "id": "4",
+        "name": "Programming Backend"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "b70c",
+      "name": "wbwdb",
+      "budget": "23",
+      "category": {
+        "id": "2",
+        "name": "Architecture"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "69be",
+      "name": "bwbwrb",
+      "budget": "17",
+      "category": {
+        "id": "2",
+        "name": "Architecture"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "2",
+      "name": "Architecture"
+    },
+    {
+      "id": "3",
+      "name": "Software Development"
+    },
+    {
+      "id": "4",
+      "name": "Programming Backend"
+    }
+  ]
+}
