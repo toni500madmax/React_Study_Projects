@@ -6,7 +6,7 @@ import Container from "../layout/Container";
 import ProjectForm from "../projects/ProjectForm";
 import Message from "../layout/Message";
 import ServicesForm from "../services/ServicesForm";
-import { parse, v4 as uuidv4 } from "uuid";
+import { v4 as uuidv4 } from "uuid";
 import ServiceCard from "../services/ServiceCard";
 
 export default function Project() {
