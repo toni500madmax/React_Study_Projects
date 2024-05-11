@@ -19,7 +19,9 @@ export default function NewProject() {
     })
       .then((res) => res.json())
       .then((data) =>
-        history("/projects", { message: "Projeto criado com sucesso!" })
+        history("/projects", {
+          state: { message: "Projeto criado com sucesso!" },
+        })
       )
       .catch((err) => console.error(err));
   }

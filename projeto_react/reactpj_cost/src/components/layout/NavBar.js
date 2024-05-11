@@ -22,7 +22,7 @@ export default function NavBar() {
             <Link to="/contact">Contact</Link>
           </li>
           <li className={styles.item}>
-            <Link to="/newproject">NewProject</Link>
+            <Link to="/projects">Projects</Link>
           </li>
         </ul>
       </Container>
